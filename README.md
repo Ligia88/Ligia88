@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ligia</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Phyton, AWS**
+- 🌱 I’m currently learning **Python, AWS**
 
 - 💬 Ask me about **react, html, js**
 
