@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **lizcr1988@gmail.com**
 
+- ⚡ Fun Fact **⚡ Interesting fact about me! I'm an enthusiast of international cuisine and I enjoy hiking mountains.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ligia-elizondo-loria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ligia-elizondo-loria" height="30" width="40" /></a>
